@@ -6,8 +6,6 @@ MegaMart is a modern, responsive e-commerce website built using **HTML5** and **
 
 ## 📸 Preview
 
-![MegaMart Preview](./img/preview.png)
-
 > **Note:** Replace `preview.png` with a screenshot of your homepage.
 
 ---
