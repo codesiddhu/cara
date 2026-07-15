@@ -1,4 +1,4 @@
-# 🛒 MegaMart - Responsive E-Commerce Website
+# 🛒 Cara - Responsive E-Commerce Website
 
 MegaMart is a modern, responsive e-commerce website built using **HTML5** and **CSS3**. It features a clean user interface, responsive design, product showcases, promotional banners, and a professional footer, making it an excellent frontend practice project. The project includes a sticky navigation bar, hero section, feature cards, product listings, promotional banners, and a responsive footer. :contentReference[oaicite:0]{index=0} :contentReference[oaicite:1]{index=1}
 
